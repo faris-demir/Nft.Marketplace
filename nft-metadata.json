@@ -1,0 +1,20 @@
+{
+    "name": "Hyacinth",
+    "description": "Hyacinthus orientalis, or the common hyacinth, is a fragrant flowering plant that blooms in early to mid-spring. Hyacinths produce showy flowers in shades of blue, purple, white, pink, and red. The flowers appear in thick clusters on tall spikes; each spike is filled with small, deeply fragrant, bell-shaped blooms.",
+    "image": "https://nftstorage.link/ipfs/bafybeidkxr427ilk5pymahg7bn6hnaijdviqsungok636hzelu5seuawtq",
+    "attributes": [
+        {
+            "trait_type": "Petals",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Stem",
+            "value": "Green"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Height (in cm)",
+            "value": 16
+        }
+    ]
+}

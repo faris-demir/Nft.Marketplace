@@ -26,13 +26,9 @@
         "prettier": "^2.5.1",
         "prettier-plugin-solidity": "^1.0.0-beta.19",
         "solhint": "^3.3.6",
-        "solidity-coverage": "^0.7.13",
-        "hardhat-ethernal": "^3.1.0"
+        "solidity-coverage": "^0.7.13"
     },
     "mocha": {
         "timeout": 10000000
-    },
-    "dependencies": {
-        "hardhat-ethernal": "^3.1.0"
     }
 }
